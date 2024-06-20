@@ -1,0 +1,17 @@
+
+.youtube {
+    color: #EE0F0F;
+  }
+
+  /* :root > * {
+    --md-code-hl-string-color: #0FF1CE;
+    --md-code-bg-color:  #103030;
+  }*/
+
+
+
+  :root {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }  
